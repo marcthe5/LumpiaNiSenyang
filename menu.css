@@ -1,0 +1,2377 @@
+
+body{
+	margin: 0 auto;
+	position: static;
+	background-color: #EEEEEE;
+
+}
+nav{
+	background: rgba(54, 54, 54, 0.8);
+	width: 100%;
+	position: fixed;
+	z-index: 2;
+}
+ul{
+    line-height: 1.8em;
+}
+li{
+	list-style: none;
+	display: inline;
+     text-transform: uppercase;
+     font-weight: lighter;
+     font-family: Segoe UI;
+}
+.a1{
+	text-decoration: none;
+    font-size: 3vw;
+    color: white;
+    letter-spacing: 3pt;
+    text-align: center;
+    float: left;
+
+}
+.a1:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a2{
+  text-decoration: none;
+    font-size: 3vw;
+    color: white;
+    letter-spacing: 3pt;
+    text-align: center;
+  padding: 0 150px 0;
+
+}
+.a2:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a3{
+text-decoration: none;
+    font-size: 3vw;
+    color: white;
+    letter-spacing: 3pt;
+    text-align: center;
+  padding: 0 10px;
+  float: right;
+}
+.a3:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a4{
+	  text-decoration: none;
+    font-size: 3vw;
+    color: white;
+    letter-spacing: 3pt;
+    text-align: center;
+  padding: 0 100px;
+  float: right;
+}
+.a4:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+}
+.logo img{
+position: fixed;
+width: 25vw;
+height: 25vw;
+margin-left: auto;
+margin-right: auto;
+transform: translateY(-45px) translateX(-75px);
+
+}
+.header_pic img{
+	position: static;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+
+}
+main{
+	position: static;
+	z-index: 99;
+	background-color: #232323;
+	width: 80%;
+	margin: auto;
+	box-shadow: 1px 1px 7px gray;
+}
+.article1{
+	position: static;
+	display: inline-table;
+	width: 35%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu1_image{
+	position: static;
+	width: 100%;
+
+}
+.p1{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 50.2px;
+	background-color: 
+
+}
+.article2{
+	position: static;
+	display: inline-table;
+	width: 35%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu2_image{
+	position: static;
+	width: 100%;
+}
+.p2{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 39.5px;
+	background-color: 
+
+}
+
+.article3{
+	position: static;
+	display: inline-table;
+	width: 29%;
+	height: 72vw;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu3_image{
+	position: static;
+	width: 100%;
+
+}
+.p3{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+
+
+}
+.article4{
+	position: static;
+	display: flex;
+	width: 30%;
+
+
+
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu4_image {
+	position: static;
+	width: 100%;
+	margin:  auto;
+;
+}
+.p4{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+	background-color: 
+
+}
+
+#footer{
+	position:static;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   opacity: 0.8;
+   color: white;
+   text-align: center;
+}
+
+.foot_text{
+	font-family: Segoe UI;
+	font-size: 15px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	color: white;
+	padding: 0 10px;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+.p_last{
+
+	font-family: Segoe UI;
+}
+.foot_text a{
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+body{
+	margin: 0 auto;
+	position: static;
+	background-color: #EEEEEE;
+
+}
+nav{
+	background: rgba(54, 54, 54, 0.8);
+	width: 100%;
+	position: fixed;
+	z-index: 2;
+
+}
+ul{
+    line-height: 0.8em;
+
+    display: inline-grid;
+
+}
+li{
+	list-style: none;
+	 display: inline-grid;
+	 padding: 2px;
+     text-transform: uppercase;
+     font-weight: lighter;
+     font-family: Segoe UI;
+
+}
+.a1{
+	text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+    float: left;
+ 
+
+}
+.a1:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a2{
+  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+     letter-spacing: 1pt;
+    text-align: center;
+ 
+
+}
+.a2:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a3{
+text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+  
+ 
+}
+.a3:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a4{
+	  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+}
+.a4:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+}
+.logo img{
+position: fixed;
+width: 34vw;
+height: 32vw;
+margin-left: auto;
+margin-right: auto;
+transform: translateY(-55px) translateX(-15px);
+
+
+}
+.header_pic img{
+	position: static;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+
+}
+main{
+	position: static;
+	z-index: 99;
+	background-color: #232323;
+	width: 80%;
+	margin: auto;
+	box-shadow: 1px 1px 7px gray;
+}
+.article1{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu1_image{
+	position: static;
+	width: 100%;
+
+}
+.p1{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 50.2px;
+	background-color: 
+
+}
+.article2{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu2_image{
+	position: static;
+	width: 100%;
+}
+.p2{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 35px;
+	background-color: 
+
+}
+
+.article3{
+	position: static;
+	display: inline-table;
+	width: 100%;
+	height: 72vw;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu3_image{
+	position: static;
+	width: 100%;
+
+}
+.p3{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+
+
+}
+.article4{
+	position: static;
+	display: flex;
+	width: 100%;
+
+
+
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu4_image {
+	position: static;
+	width: 100%;
+	margin:  auto;
+;
+}
+.p4{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+	background-color: 
+
+}
+
+#footer{
+	position:static;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   opacity: 0.8;
+   color: white;
+   text-align: center;
+}
+
+.foot_text{
+	font-family: Segoe UI;
+	font-size: 15px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	color: white;
+	padding: 0 10px;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+.p_last{
+
+	font-family: Segoe UI;
+}
+.foot_text a{
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+  	body{
+	margin: 0 auto;
+	position: static;
+	background-color: #EEEEEE;
+
+}
+nav{
+	background: rgba(54, 54, 54, 0.8);
+	width: 100%;
+	position: fixed;
+	z-index: 2;
+
+}
+ul{
+    line-height: 0.8em;
+
+    display: inline-grid;
+
+}
+li{
+	list-style: none;
+	 display: inline-grid;
+	 padding: 2px;
+     text-transform: uppercase;
+     font-weight: lighter;
+     font-family: Segoe UI;
+
+}
+.a1{
+	text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+    float: left;
+ 
+
+}
+.a1:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a2{
+  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+     letter-spacing: 1pt;
+    text-align: center;
+ 
+
+}
+.a2:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a3{
+text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+  
+ 
+}
+.a3:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a4{
+	  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+}
+.a4:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+}
+.logo img{
+position: fixed;
+width: 34vw;
+height: 32vw;
+margin-left: auto;
+margin-right: auto;
+transform: translateY(-55px) translateX(-15px);
+
+}
+.header_pic img{
+	position: static;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+
+}
+main{
+	position: static;
+	z-index: 99;
+	background-color: #232323;
+	width: 80%;
+	margin: auto;
+	box-shadow: 1px 1px 7px gray;
+}
+.article1{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu1_image{
+	position: static;
+	width: 100%;
+
+}
+.p1{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 50.2px;
+	background-color: 
+
+}
+.article2{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu2_image{
+	position: static;
+	width: 100%;
+}
+.p2{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 35px;
+	background-color: 
+
+}
+
+.article3{
+	position: static;
+	display: inline-table;
+	width: 100%;
+	height: 72vw;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu3_image{
+	position: static;
+	width: 100%;
+
+}
+.p3{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+
+
+}
+.article4{
+	position: static;
+	display: flex;
+	width: 100%;
+
+
+
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu4_image {
+	position: static;
+	width: 100%;
+	margin:  auto;
+;
+}
+.p4{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+	background-color: 
+
+}
+
+#footer{
+	position:static;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   opacity: 0.8;
+   color: white;
+   text-align: center;
+}
+
+.foot_text{
+	font-family: Segoe UI;
+	font-size: 15px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	color: white;
+	padding: 0 10px;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+.p_last{
+
+	font-family: Segoe UI;
+}
+.foot_text a{
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+  	 	body{
+	margin: 0 auto;
+	position: static;
+	background-color: #EEEEEE;
+
+}
+nav{
+	background: rgba(54, 54, 54, 0.8);
+	width: 100%;
+	position: fixed;
+	z-index: 2;
+
+}
+ul{
+    line-height: 0.8em;
+
+    display: inline-grid;
+
+}
+li{
+	list-style: none;
+	 display: inline-grid;
+	 padding: 2px;
+     text-transform: uppercase;
+     font-weight: lighter;
+     font-family: Segoe UI;
+
+}
+.a1{
+	text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+    float: left;
+ 
+
+}
+.a1:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a2{
+  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+     letter-spacing: 1pt;
+    text-align: center;
+ 
+
+}
+.a2:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a3{
+text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+  
+ 
+}
+.a3:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a4{
+	  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+}
+.a4:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+}
+.logo img{
+position: fixed;
+width: 34vw;
+height: 32vw;
+margin-left: auto;
+margin-right: auto;
+transform: translateY(-55px) translateX(-15px);
+
+}
+.header_pic img{
+	position: static;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+
+}
+main{
+	position: static;
+	z-index: 99;
+	background-color: #232323;
+	width: 80%;
+	margin: auto;
+	box-shadow: 1px 1px 7px gray;
+}
+.article1{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu1_image{
+	position: static;
+	width: 100%;
+
+}
+.p1{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 50.2px;
+	background-color: 
+
+}
+.article2{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu2_image{
+	position: static;
+	width: 100%;
+}
+.p2{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 35px;
+	background-color: 
+
+}
+
+.article3{
+	position: static;
+	display: inline-table;
+	width: 100%;
+	height: 72vw;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu3_image{
+	position: static;
+	width: 100%;
+
+}
+.p3{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+
+
+}
+.article4{
+	position: static;
+	display: flex;
+	width: 100%;
+
+
+
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu4_image {
+	position: static;
+	width: 100%;
+	margin:  auto;
+;
+}
+.p4{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+	background-color: 
+
+}
+
+#footer{
+	position:static;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   opacity: 0.8;
+   color: white;
+   text-align: center;
+}
+
+.foot_text{
+	font-family: Segoe UI;
+	font-size: 15px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	color: white;
+	padding: 0 10px;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+.p_last{
+
+	font-family: Segoe UI;
+}
+.foot_text a{
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+/* ----------- iPhone X ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+  	 	 	body{
+	margin: 0 auto;
+	position: static;
+	background-color: #EEEEEE;
+
+}
+nav{
+	background: rgba(54, 54, 54, 0.8);
+	width: 100%;
+	position: fixed;
+	z-index: 2;
+
+}
+ul{
+    line-height: 0.8em;
+
+    display: inline-grid;
+
+}
+li{
+	list-style: none;
+	 display: inline-grid;
+	 padding: 2px;
+     text-transform: uppercase;
+     font-weight: lighter;
+     font-family: Segoe UI;
+
+}
+.a1{
+	text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+    float: left;
+ 
+
+}
+.a1:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a2{
+  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+     letter-spacing: 1pt;
+    text-align: center;
+ 
+
+}
+.a2:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a3{
+text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+  
+ 
+}
+.a3:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a4{
+	  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+}
+.a4:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+}
+.logo img{
+position: fixed;
+width: 34vw;
+height: 32vw;
+margin-left: auto;
+margin-right: auto;
+transform: translateY(-55px) translateX(-15px);
+
+}
+.header_pic img{
+	position: static;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+
+}
+main{
+	position: static;
+	z-index: 99;
+	background-color: #232323;
+	width: 80%;
+	margin: auto;
+	box-shadow: 1px 1px 7px gray;
+}
+.article1{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu1_image{
+	position: static;
+	width: 100%;
+
+}
+.p1{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 50.2px;
+	background-color: 
+
+}
+.article2{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu2_image{
+	position: static;
+	width: 100%;
+}
+.p2{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 35px;
+	background-color: 
+
+}
+
+.article3{
+	position: static;
+	display: inline-table;
+	width: 100%;
+	height: 72vw;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu3_image{
+	position: static;
+	width: 100%;
+
+}
+.p3{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+
+
+}
+.article4{
+	position: static;
+	display: flex;
+	width: 100%;
+
+
+
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu4_image {
+	position: static;
+	width: 100%;
+	margin:  auto;
+;
+}
+.p4{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+	background-color: 
+
+}
+
+#footer{
+	position:static;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   opacity: 0.8;
+   color: white;
+   text-align: center;
+}
+
+.foot_text{
+	font-family: Segoe UI;
+	font-size: 15px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	color: white;
+	padding: 0 10px;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+.p_last{
+
+	font-family: Segoe UI;
+}
+.foot_text a{
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ----------- OPPO RENO-2 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 412px) 
+  and (max-device-width: 915px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+  	 	 	 	body{
+	margin: 0 auto;
+	position: static;
+	background-color: #EEEEEE;
+
+}
+nav{
+	background: rgba(54, 54, 54, 0.8);
+	width: 100%;
+	position: fixed;
+	z-index: 2;
+
+}
+ul{
+    line-height: 0.8em;
+
+    display: inline-grid;
+
+}
+li{
+	list-style: none;
+	 display: inline-grid;
+	 padding: 2px;
+     text-transform: uppercase;
+     font-weight: lighter;
+     font-family: Segoe UI;
+
+}
+.a1{
+	text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+    float: left;
+ 
+
+}
+.a1:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a2{
+  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+     letter-spacing: 1pt;
+    text-align: center;
+ 
+
+}
+.a2:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a3{
+text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+  
+ 
+}
+.a3:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a4{
+	  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+}
+.a4:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+}
+.logo img{
+position: fixed;
+width: 34vw;
+height: 32vw;
+margin-left: auto;
+margin-right: auto;
+transform: translateY(-55px) translateX(-15px);
+
+}
+.header_pic img{
+	position: static;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+
+}
+main{
+	position: static;
+	z-index: 99;
+	background-color: #232323;
+	width: 80%;
+	margin: auto;
+	box-shadow: 1px 1px 7px gray;
+}
+.article1{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu1_image{
+	position: static;
+	width: 100%;
+
+}
+.p1{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 50.2px;
+	background-color: 
+
+}
+.article2{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu2_image{
+	position: static;
+	width: 100%;
+}
+.p2{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 35px;
+	background-color: 
+
+}
+
+.article3{
+	position: static;
+	display: inline-table;
+	width: 100%;
+	height: 72vw;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu3_image{
+	position: static;
+	width: 100%;
+
+}
+.p3{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+
+
+}
+.article4{
+	position: static;
+	display: flex;
+	width: 100%;
+
+
+
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu4_image {
+	position: static;
+	width: 100%;
+	margin:  auto;
+;
+}
+.p4{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+	background-color: 
+
+}
+
+#footer{
+	position:static;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   opacity: 0.8;
+   color: white;
+   text-align: center;
+}
+
+.foot_text{
+	font-family: Segoe UI;
+	font-size: 15px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	color: white;
+	padding: 0 10px;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+.p_last{
+
+	font-family: Segoe UI;
+}
+.foot_text a{
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------- iPad 3, 4 and Pro 9.7" ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+  	  	 	 	body{
+	margin: 0 auto;
+	position: static;
+	background-color: #EEEEEE;
+
+}
+nav{
+	background: rgba(54, 54, 54, 0.8);
+	width: 100%;
+	position: fixed;
+	z-index: 2;
+
+}
+ul{
+    line-height: 0.8em;
+
+    display: inline-grid;
+
+}
+li{
+	list-style: none;
+	  display: inline-grid;
+	 padding: 2px;
+     text-transform: uppercase;
+     font-weight: lighter;
+     font-family: Segoe UI;
+
+}
+.a1{
+	text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+    float: left;
+ 
+
+}
+.a1:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a2{
+  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+     letter-spacing: 1pt;
+    text-align: center;
+ 
+
+}
+.a2:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a3{
+text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+  
+ 
+}
+.a3:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a4{
+	  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+}
+.a4:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+}
+.logo img{
+position: fixed;
+width: 34vw;
+height: 32vw;
+margin-left: auto;
+margin-right: auto;
+transform: translateY(-55px) translateX(-15px);
+
+}
+.header_pic img{
+	position: static;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+
+}
+main{
+	position: static;
+	z-index: 99;
+	background-color: #232323;
+	width: 80%;
+	margin: auto;
+	box-shadow: 1px 1px 7px gray;
+}
+.article1{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu1_image{
+	position: static;
+	width: 100%;
+
+}
+.p1{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 50.2px;
+	background-color: 
+
+}
+.article2{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu2_image{
+	position: static;
+	width: 100%;
+}
+.p2{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 35px;
+	background-color: 
+
+}
+
+.article3{
+	position: static;
+	display: inline-table;
+	width: 100%;
+	height: 72vw;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu3_image{
+	position: static;
+	width: 100%;
+
+}
+.p3{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+
+
+}
+.article4{
+	position: static;
+	display: flex;
+	width: 100%;
+
+
+
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu4_image {
+	position: static;
+	width: 100%;
+	margin:  auto;
+;
+}
+.p4{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+	background-color: 
+
+}
+
+#footer{
+	position:static;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   opacity: 0.8;
+   color: white;
+   text-align: center;
+}
+
+.foot_text{
+	font-family: Segoe UI;
+	font-size: 15px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	color: white;
+	padding: 0 10px;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+.p_last{
+
+	font-family: Segoe UI;
+}
+.foot_text a{
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+	/* ----------- Apple iPad PRO" ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+  	 	 	 	body{
+	margin: 0 auto;
+	position: static;
+	background-color: #EEEEEE;
+
+}
+nav{
+	background: rgba(54, 54, 54, 0.8);
+	width: 100%;
+	position: fixed;
+	z-index: 2;
+
+}
+ul{
+    line-height: 0.8em;
+
+    display: inline-grid;
+
+}
+li{
+	list-style: none;
+	  display: inline-grid;
+	 padding: 2px;
+     text-transform: uppercase;
+     font-weight: lighter;
+     font-family: Segoe UI;
+
+}
+.a1{
+	text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+    float: left;
+ 
+
+}
+.a1:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a2{
+  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+     letter-spacing: 1pt;
+    text-align: center;
+ 
+
+}
+.a2:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a3{
+text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+  
+ 
+}
+.a3:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+
+}
+.a4{
+	  text-decoration: none;
+    font-size: 4vw;
+    color: white;
+    letter-spacing: 1pt;
+    text-align: center;
+  
+
+}
+.a4:hover{
+	transition: 1s;
+	filter: drop-shadow(5px 5px 5px black);
+	color: rgba(255, 255, 255, 0.8);
+}
+.logo img{
+position: fixed;
+width: 34vw;
+height: 32vw;
+margin-left: auto;
+margin-right: auto;
+transform: translateY(-55px) translateX(-15px);
+
+}
+.header_pic img{
+	position: static;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+
+}
+main{
+	position: static;
+	z-index: 99;
+	background-color: #232323;
+	width: 80%;
+	margin: auto;
+	box-shadow: 1px 1px 7px gray;
+}
+.article1{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu1_image{
+	position: static;
+	width: 100%;
+
+}
+.p1{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 50.2px;
+	background-color: 
+
+}
+.article2{
+	position: static;
+	display: inline-table;
+	width: 100%;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu2_image{
+	position: static;
+	width: 100%;
+}
+.p2{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 35px;
+	background-color: 
+
+}
+
+.article3{
+	position: static;
+	display: inline-table;
+	width: 100%;
+	height: 72vw;
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu3_image{
+	position: static;
+	width: 100%;
+
+}
+.p3{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+
+
+}
+.article4{
+	position: static;
+	display: flex;
+	width: 100%;
+
+
+
+}
+h1{
+	position: static;
+	font-family: Road Rage;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 3px #232323;
+	font-weight: lighter;
+	text-align: center;
+}
+.menu4_image {
+	position: static;
+	width: 100%;
+	margin:  auto;
+;
+}
+.p4{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	text-transform: uppercase;
+    position: static;
+    color: white;
+    text-align: center;
+	font-size: 41.5px;
+	background-color: 
+
+}
+
+#footer{
+	position:static;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   opacity: 0.8;
+   color: white;
+   text-align: center;
+}
+
+.foot_text{
+	font-family: Segoe UI;
+	font-size: 15px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	color: white;
+	padding: 0 10px;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+.p_last{
+
+	font-family: Segoe UI;
+}
+.foot_text a{
+text-decoration: none;
+}
+
+
+
