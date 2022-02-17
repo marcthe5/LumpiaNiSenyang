@@ -397,7 +397,7 @@ p.content1{
 	font-family: Segoe UI;
 	font-size: 25px;
 	text-align: left;
-	line-height: 0;
+	line-height: 1.5;
 	color: #828281;
 
 }
