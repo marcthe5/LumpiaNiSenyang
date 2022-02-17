@@ -147,10 +147,11 @@ height: 506px;
 .headtext2{
 	font-family: Segoe UI;
 	background-color: #7D2533;
+	margin: auto;
+	text-align: center;
 	color: white;
-	width: 90%;
-	font-size: 65px;
-	text-shadow: 1px 1px 1px black;
+	width: 100%;
+	font-size: 75px;
 	text-transform: uppercase;
 }
 .iframes{
@@ -343,8 +344,7 @@ text-decoration: none;
 position: fixed;
 width: 34vw;
 height: 32vw;
-margin-left: auto;
-margin-right: auto;
+margin: auto;
 transform: translateY(-45px) translateX(5px);
 
 }
@@ -494,7 +494,7 @@ z-index: 11;
 	color: white;
 	width: 100%;
 	font-size: 13vw;
-	text-shadow: 1px 1px 1px black;
+	text-align: center;
 	text-transform: uppercase;
 
 
@@ -798,7 +798,8 @@ p.content1{
 	color: white;
 	width: 100%;
 	font-size: 13vw;
-	text-shadow: 1px 1px 1px black;
+		text-align: center;
+
 	text-transform: uppercase;
 
 
@@ -1094,7 +1095,7 @@ p.content1{
 	color: white;
 	width: 100%;
 	font-size: 13vw;
-	text-shadow: 1px 1px 1px black;
+	text-align: center;
 	text-transform: uppercase;
 
 
@@ -1354,7 +1355,7 @@ p.content1{
 	color: white;
 	width: 100%;
 	font-size: 13vw;
-	text-shadow: 1px 1px 1px black;
+	text-align: center;
 	text-transform: uppercase;
 
 
@@ -1617,7 +1618,7 @@ p.content1{
 	color: white;
 	width: 100%;
 	font-size: 13vw;
-	text-shadow: 1px 1px 1px black;
+	text-align: center;
 	text-transform: uppercase;
 
 
@@ -1878,7 +1879,7 @@ p.content1{
 	color: white;
 	width: 100%;
 	font-size: 13vw;
-	text-shadow: 1px 1px 1px black;
+	text-align: center;
 	text-transform: uppercase;
 
 
@@ -2202,7 +2203,7 @@ p.content1{
 	color: white;
 	width: 100%;
 	font-size: 13vw;
-	text-shadow: 1px 1px 1px black;
+	text-align: center;	
 	text-transform: uppercase;
 
 
@@ -2458,7 +2459,6 @@ height: 250px;
 	color: white;
 	width: 100%;
 	font-size: 13vw;
-	text-shadow: 1px 1px 1px black;
 	text-transform: uppercase;
 
 
@@ -2720,7 +2720,6 @@ height: 250px;
 	color: white;
 	width: 100%;
 	font-size: 13vw;
-	text-shadow: 1px 1px 1px black;
 	text-transform: uppercase;
 
 
