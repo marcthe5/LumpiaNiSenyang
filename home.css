@@ -141,8 +141,7 @@ height: 506px;
 }
 .article2{
 	position: static;
-   background-color: rgb(251,182,78,0.8);
-  
+background-color: rgb(251,182,78,0.8);  
 }
 .headtext2{
 	font-family: Segoe UI;
@@ -157,6 +156,9 @@ height: 506px;
 .iframes{
 border-bottom-style: solid;
 border-bottom-color: #7D2533;
+max-width: 95%;
+overflow-x: hidden;
+
 
 }
 .delivery_partners{
@@ -403,8 +405,7 @@ p.content1{
 }
 .article2{
 	position: static;
-   background-color: rgb(189,189,189,0.8);
-
+background-color: rgb(251,182,78,0.8);
 }
 .iframes-container{
 position: relative;
@@ -738,8 +739,7 @@ p.content1{
 }
 .article2{
 	position: static;
-   background-color: rgb(189,189,189,0.8);
-
+background-color: rgb(251,182,78,0.8);
 
 }
 .iframe1_media{
@@ -1070,8 +1070,7 @@ p.content1{
 }
 .article2{
 	position: static;
-   background-color: rgb(189,189,189,0.8);
-
+background-color: rgb(251,182,78,0.8);
 }
 .iframe1_media{
 	width: 150px;
@@ -1331,7 +1330,7 @@ p.content1{
 }
 .article2{
 	position: static;
-   background-color: rgb(189,189,189,0.8);
+background-color: rgb(251,182,78,0.8);
 }
 .iframe1_media{
 	width: 150px;
@@ -1592,8 +1591,7 @@ p.content1{
 }
 .article2{
 	position: static;
-   background-color: rgb(189,189,189,0.8);
-
+background-color: rgb(251,182,78,0.8);
 }
 .iframe1_media{
 	width: 150px;
@@ -1854,8 +1852,7 @@ p.content1{
 }
 .article2{
 	position: static;
-   background-color: rgb(189,189,189,0.8);
-
+background-color: rgb(251,182,78,0.8);
 }
 .iframe1_media{
 	width: 150px;
@@ -2178,8 +2175,7 @@ p.content1{
 }
 .article2{
 	position: static;
-   background-color: rgb(189,189,189,0.8);
-
+background-color: rgb(251,182,78,0.8);
 }
 .iframe1_media{
 	width: 100%;
@@ -2434,8 +2430,7 @@ height: 250px;
 }
 .article2{
 	position: static;
-   background-color: rgb(189,189,189,0.8);
-
+background-color: rgb(251,182,78,0.8);
 }
 .iframe1_media{
 	width: 100%;
@@ -2695,8 +2690,7 @@ height: 250px;
 }
 .article2{
 	position: static;
-   background-color: rgb(189,189,189,0.8);
-
+background-color: rgb(251,182,78,0.8);
 }
 .iframe1_media{
 	width: 100%;
