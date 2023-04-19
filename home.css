@@ -2,7 +2,7 @@
 body{
 	margin: 0 auto;
 	position: static;
-	background-color: #7D2533;
+	background-color: red;
 
 }
 nav{
@@ -20,6 +20,15 @@ li{
      text-transform: uppercase;
      font-weight: lighter;
      font-family: Segoe UI;
+}
+.selection{
+	text-decoration: none;
+	color: white;	
+	font-size: 30px;
+	padding: 20px;
+}
+.selection:hover{
+	opacity: 0.8;
 }
 .a1{
 	text-decoration: none;
@@ -141,7 +150,7 @@ height: 506px;
 }
 .article2{
 	position: static;
-background-color: rgb(251,182,78,0.8);  
+background-color:#FCC225;  
 }
 .headtext2{
 	font-family: Segoe UI;
@@ -403,9 +412,11 @@ p.content1{
 	color: #828281;
 
 }
+.article1{
+background-color: #F6F1E9;
+}
 .article2{
 	position: static;
-background-color: rgb(251,182,78,0.8);
 }
 .iframes-container{
 position: relative;
