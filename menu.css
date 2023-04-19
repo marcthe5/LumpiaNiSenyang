@@ -21,6 +21,16 @@ li{
      font-weight: lighter;
      font-family: Segoe UI;
 }
+.selection{
+	text-decoration: none;
+	color: white;	
+	font-size: 30px;
+	padding: 20px;
+}
+.selection:hover{
+	opacity: 0.8;
+}
+
 .a1{
 	text-decoration: none;
     font-size: 3vw;
@@ -109,12 +119,12 @@ main{
 	display: inline-table;
 	width: 35%;
 }
-h1{
+h3{
 	position: static;
 	font-family: Road Rage;
 	font-size: 60px;
-	color: white;
-	text-shadow: 1px 1px 3px #232323;
+	color: maroon;
+	text-shadow: 1px 1px 3px white;
 	font-weight: lighter;
 	text-align: center;
 }
