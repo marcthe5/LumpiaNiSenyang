@@ -1,7 +1,6 @@
 body{
 	margin: 0 auto;
-	position: static;
-	background-color: #EEEEEE;
+	background-color:#EEEBDD;
 
 }
 nav{
@@ -19,6 +18,10 @@ li{
      text-transform: uppercase;
      font-weight: lighter;
      font-family: Segoe UI;
+}
+.branch_img:hover{
+opacity: 0.7;
+transition: 0.4s;
 }
 .a1{
 	text-decoration: none;
@@ -102,6 +105,20 @@ main{
 	width: 80%;
 	margin: auto;
 	box-shadow: 1px 1px 7px gray;
+}
+.selection{
+	text-decoration: none;
+	color: white;	
+	font-size: 30px;
+	padding: 20px;
+}
+.selection:hover{
+	opacity: 0.8;
+}
+
+.image{
+	margin: 0 auto;
+	justify-content: center;
 }
 .head1{
 	font-family: Segoe UI;
